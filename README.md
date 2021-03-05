@@ -20,3 +20,5 @@
 <p>You can also import <b>style.css</b> file to make quick start then you can change styling as you wish.</p>
 <h3><a href="https://www.youtube.com/watch?v=3VeezhTsPaw">Tutorial Video on Youtube</a></h3>
 <h4><a href="https://www.linkedin.com/in/barış-demirezen-655879190/">Follow me on linkedin</a></h4>
+
+![Image of Yaktocat](https://i.ibb.co/T8d3Wcv/Thumbnail.jpg)
